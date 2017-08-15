@@ -282,9 +282,9 @@ header .navbar-fake .btn-search input {
   font-size: 1.6em;
   -webkit-border-radius: 20px;
           border-radius: 20px;
-  max-width: 11em;
+  max-width: 6em;
   border: none;
-  padding: .2em .5em;
+  padding: .2em .4em;
   outline: none;
 }
 
